@@ -1,2 +1,2 @@
 # Repositório Curso
- repositório do curso de git/github do curso em vídeo do Guanabara
+ Repositório do Curso de Git/Github do curso em vídeo do Guanabara
